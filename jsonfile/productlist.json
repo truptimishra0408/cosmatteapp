@@ -1,0 +1,48 @@
+[
+  {
+    "pid": 1,
+    "pname": "Foundation",
+    "pimg": "http://192.168.0.102:8000/brands/foundation.webp",
+    "packsize": "4ml",
+    "bid": 1,
+    "cid": 4,
+    "price": "500"
+  },
+  {
+    "pid": 2,
+    "pname": "  Lipstick",
+    "pimg": "http://192.168.0.102:8000/brands/lipstick.jpg",
+    "packsize": "6ml",
+    "bid": 2,
+    "cid": 1,
+    "price":"900"
+  },
+  {
+    "pid": 3,
+    "pname": "Eyeliner",
+    "pimg": "http://192.168.0.102:8000/brands/new.jpg",
+    "packsize": "5ml",
+    "bid": 1,
+    "cid": 3,
+    "price": "600"
+  },
+  {
+    "pid": 4,
+    "pname": "kajal",
+    "pimg": "http://192.168.0.102:8000/brands/kajal.jpg",
+    "packsize": "4ml",
+    "bid": 2,
+    "cid": 2,
+    "price": "750"
+  },
+  {
+    "pid": 5,
+    "pname": "Eyeshadow Palette",
+    "pimg": "http://192.168.0.102:8000/brands/eyeshadow.jpg",
+    "packsize": "30 shades",
+    "bid": 3,
+    "cid": 5,
+    "price": "1200"
+  }
+
+]
